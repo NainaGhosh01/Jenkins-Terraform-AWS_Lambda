@@ -18,7 +18,7 @@ This project sets up a CI/CD pipeline using Jenkins, Docker, Terraform, AWS, and
 
 1. GitHub Repository
   - Create a GitHub repository and push your code to the repository. This includes the Dockerfile, Python application (app.py), and Terraform resources (resources.tf).
-  - Example repository URL: https://github.com/NainaGhosh01/docker.git
+  - Example repository URL: https://github.com/NainaGhosh01/Jenkins-Terraform-AWS_Lambda.git
   
 
 2. Manual EC2 Setup for Jenkins, Docker, and Terraform
